@@ -1,4 +1,4 @@
-# README
+# Neural Network Comparator
 
 This project demonstrates two approaches to classifying handwritten digits from the [MNIST dataset](http://yann.lecun.com/exdb/mnist/):
 1. A simple Convolutional Neural Network (CNN)
